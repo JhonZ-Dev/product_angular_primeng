@@ -14,3 +14,8 @@
 
 
 ![pytohn](https://github.com/JhonZ-Dev/product_angular_primeng/assets/79710173/5524be41-0558-4f82-a9d6-c0a6e8d6bb03)
+
+
+<p>Ver por postman - imagen</p>
+![verimagenpo](https://github.com/JhonZ-Dev/product_angular_primeng/assets/79710173/8298c38c-eef6-40cf-be89-dde832d41c26)
+
