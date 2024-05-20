@@ -9,4 +9,8 @@
 
 ![apipython](https://github.com/JhonZ-Dev/product_angular_primeng/assets/79710173/39987fad-b472-4f0d-84cf-4614e06b5a3e)
 
+<h3>Visualizar desde angular</h3> <br>
 
+
+
+![pytohn](https://github.com/JhonZ-Dev/product_angular_primeng/assets/79710173/5524be41-0558-4f82-a9d6-c0a6e8d6bb03)
